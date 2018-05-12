@@ -1,0 +1,35 @@
+_repo: The-Duchess-of-Trajetto_42296
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42296-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Manning, Anne
+    aliases:
+    - Manning, A. (Anne)
+    - More, Margareta
+    birthdate: 1807
+    deathdate: 1879
+    gutenberg_agent_id: '5275'
+    url: http://www.gutenberg.org/2009/agents/5275
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Manning
+description: A prolific writer of gripping historical fiction novels, author Anne
+  Manning penned more than 50 short stories and book-length tales over the course
+  of her literary career. The Duchess of Trajetto follows the plight of a well-born
+  aristocrat who suddenly finds herself immersed in a world of danger, drama, and
+  intrigue.
+gutenberg_issued: '2013-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42296'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aristocracy (Social class) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Italy -- History -- 1492-1559 -- Fiction'
+title: The Duchess of Trajetto
+url: http://www.gutenberg.org/ebooks/42296
